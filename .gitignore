@@ -2,7 +2,3 @@
 .virtual_documents/
 data/.ipynb_checkpoints/
 .env
-
-# *.ipynb diff=ipynb
-*.ipynb filter=nbstripout
-*.ipynb filter=strip-notebook-output
